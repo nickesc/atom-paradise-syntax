@@ -1,7 +1,7 @@
 {
   "name": "atom-paradise-syntax",
   "theme": "syntax",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "A port of Manas140's [paradise-theme/paradise](https://github.com/paradise-theme/paradise) to Atom's editor",
   "keywords": [
     "syntax",
